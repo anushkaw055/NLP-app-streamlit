@@ -1,4 +1,4 @@
-streamlit==0.62.1
+streamlit==1.37.0
 spacy==2.3.1
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.0/en_core_web_sm-2.3.0.tar.gz
 textblob==0.15.3
